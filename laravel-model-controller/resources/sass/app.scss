@@ -1,0 +1,22 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+body{
+    background-color: rgb(106, 86, 86);
+}
+
+.container{
+    height: 100vh;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(106, 86, 86);
+}
+
+.row{
+    gap: 30px;
+    justify-content: center;
+}
+
+.col-3{
+    background-color: rgb(88, 32, 32);
+    color: white;
+}
