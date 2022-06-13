@@ -12180,6 +12180,7 @@ body {
 .container {
   height: 100vh;
   margin-top: 50px;
+  margin-bottom: 50px;
   background-color: rgb(106, 86, 86);
 }
 
